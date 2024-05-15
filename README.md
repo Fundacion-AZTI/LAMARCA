@@ -1,6 +1,6 @@
 # LAMARCA tool
 
-# A software platform for the transference of the results of the [LAMARCA project](https://www.lamarca_project.eu/).
+## A software platform for the transference of the results of the [LAMARCA project](https://www.lamarca_project.eu/).
 
 
 This repository contains specific data products and methods from subprojects #1,2 and 3:
