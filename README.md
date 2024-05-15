@@ -1,6 +1,6 @@
 # LAMARCA tool
 
-## A software platform for the transference of the results of the [LAMARCA project](https://www.lamarca_project.eu/).
+## A software platform for the transference of the results of the [LAMARCA project](https://www.lamarca-project.eu/).
 
 
 
@@ -8,7 +8,7 @@ This repository contains specific data products and methods from subprojects #1,
 
 -Real time metocean observations and forecasts
 
--Gap filling tools for HF radar data (BRANCH Gap_filling_tools)
+-Gap filling tools for HF radar data (**BRANCH Gap_filling_tools**)
 
 -Lagrangian products LCS, LFN
 
