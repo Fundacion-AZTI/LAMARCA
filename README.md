@@ -1,4 +1,4 @@
-LAMARCA tool. A software platform for the transference of the results of the LAMARCA project.
+\textbf{LAMARCA tool. A software platform for the transference of the results of the LAMARCA project.}
 
 
 This reposiroty contains specific data products and methods from subprojects #1,2 and 3:
