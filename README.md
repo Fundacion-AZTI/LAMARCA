@@ -1,4 +1,4 @@
-#<a href="[https://www.lamarca-project.eu/]">
+<a href="[https://www.lamarca-project.eu/]">
     <img src="logoLAMARCA.png" alt="70" width="140" align="right"> <img src="logoAEI.png" alt="60" width="120"> 
 </a>
 
@@ -11,7 +11,7 @@ This is the software platform for the transference of the results of the [LAMARC
 
 **LAMARCA tool** contains customized data products and methods designed for the integrated management of coastal areas, focusing on the dispersion and accumulation of marine litter. **LAMARCA tool** is composed by the following solutions:
 
-
+> [!TIP]
 - [x] Real time metocean observations and forecasts
 
 - [x] Gap filling tools for HF radar data (**BRANCH Gap_filling_tools**)
