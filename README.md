@@ -1,5 +1,5 @@
 <a href="[https://www.lamarca-project.eu/]">
-    <img src="logoLAMARCA.png" alt="150" width="300" align="right" height="60"  >
+    <img src="logoLAMARCA.png" alt="100" width="200" align="right" height="60"  >
 </a>
 
 # LAMARCA tool
