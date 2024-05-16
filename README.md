@@ -9,15 +9,17 @@ Welcome!
 
 This is the software platform for the transference of the results of the [LAMARCA project](https://www.lamarca-project.eu/).
 
-**LAMARCA tool** contains customized data products and methods designed for the integrated management of coastal areas, focusing on the dispersion and accumulation of marine litter. **LAMARCA tool** is composed by the following solutions:
+**LAMARCA tool** contains customized data products and methods designed for the integrated management of coastal areas, focusing on the dispersion and accumulation of marine litter. 
 
-- [x] Real time metocean observations and forecasts
+**LAMARCA tool** is composed by the following solutions:
 
-- [x] Gap filling tools for HF radar data 
+-  `Real time metocean observations and forecasts` 
 
-- [x] Lagrangian products LCS, LFN
+- `Gap filling tools for HF radar data`
 
-- [x] Marine litter data, paths and hotspots
+- `Lagrangian products LCS, LFN`
+
+- `Marine litter data, paths and hotspots`
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -50,7 +52,12 @@ This is the software platform for the transference of the results of the [LAMARC
 
 The aim of this project is to further understand the role of oceanic transport in marine litter (microplastics and meso/macrolitter) dispersion and accumulation areas in the sea surface, along the water column and over the seafloor. With special emphasis on coastal zones and in the range of scales from 1 m to 10 km, where the vertical motions by marine currents play a relevant role. Focusing on the distribution of marine litter by ocean currents, we propose an approach that combines ocean-current structures, oceanographic campaigns, and new Lagrangian tools from complex systems to characterize marine connectivity and mixing properties in coastal waters.
 
-<img src="logo_titulo.png" width=90%  align="center"> 
+<img src="logotitulo.png" width=100%  align="center"> 
+
+**LAMARCA** is made up of 3 separe projects:
+**LAMARCA-MODS** _Modeling, scale dependence and descriptors of frontal flows_, **LAMARCA-SC** _Structures of transport and connectivity patterns_ and **LAMARCA-OMO** 
+_Observation and monitoring in the Bay of Biscay and Balearic sea coastal areas_. **LAMARCA** is focused on two different study areas in the Bay of Biscay (BoB) and the
+Western Mediterranean Sea (WMS), which are two regions extremely affected by the accumulation of marine litter.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -58,20 +65,38 @@ The aim of this project is to further understand the role of oceanic transport i
 ### Prerequisites
 
 ### Installation
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
+- [ ] Reading at real time of data from O1-1 and O3-3  🔵 _Task in progress_
+    - [x] Sub task 1.1
+    - [ ] Sub task 1.2
+- [x] Computation and visualization of 2d and 3d LCS and LFN 🟢 **Completed task**
+- [ ] Identification of provinces
+with infomap (both in the surface and at any depth) 🔴 **Pending task**
+- [ ] Set-up of operational forecasts 🔴 **Pending task**
+with machine-learning tools the paths of debris 🔴 **Pending task**
+- [ ] Identification of mid and long-time
+accumulation zones 🔵 _Task in progress_
+- [ ] Tested for two pilot areas (SE BoB and
+Balearic Sea)
+ 🟡 _Task on hold_
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -85,3 +110,4 @@ Project Link: [LAMARCA project](https://www.lamarca-project.eu/).
 ## Acknowledgments
 
 The developing of this software platform has been supported by Grant Project PID2021-123352OB-C31, SP2: PID2021-123352OB-C32 and SP3: PID2021-123352OB-C33 funded by MCIN/AEI/ 10.13039/501100011033 and by “ERDF A way of making Europe”
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
