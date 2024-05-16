@@ -1,10 +1,14 @@
+<a href="[https://www.lamarca-project.eu/]">
+    <img src="logoLAMARCA.png" alt="150" width="300" align="right" >
+</a>
 # LAMARCA tool
 
-## A software platform for the transference of the results of the [LAMARCA project](https://www.lamarca-project.eu/).
+Welcome!
 
+This is the software platform for the transference of the results of the [LAMARCA project](https://www.lamarca-project.eu/).
 
+**LAMARCA tool** contains customized data products and methods designed for the integrated management of coastal areas, focusing on the dispersion and accumulation of marine litter. **LAMARCA tool** is composed by the following solutions:
 
-This repository contains specific data products and methods from subprojects #1,2 and 3:
 
 -Real time metocean observations and forecasts
 
