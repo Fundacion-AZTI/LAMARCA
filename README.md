@@ -25,10 +25,7 @@ This is the software platform for the transference of the results of the [LAMARC
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="about-the-project">text1</a></li>
-      </ul>
-    </li>
+         </li>
     <li>
       <a href="#text2">Getting Started</a>
       <ul>
