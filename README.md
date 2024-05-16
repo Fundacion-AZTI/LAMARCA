@@ -43,7 +43,7 @@ This is the software platform for the transference of the results of the [LAMARC
 </details>
 
 > [!TIP]
-> These solutions are available in [AZTI's github repository](https://github.com/Fundacion-AZTI/LAMARCA) and the Getting Started Guide is readily available [here].
+> These solutions are available in [AZTI's github repository](https://github.com/Fundacion-AZTI/LAMARCA) and the Getting Started Guide is readily available [here](https://fundacion-azti.github.io/gam-niche/).
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
