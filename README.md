@@ -1,10 +1,10 @@
-<p align="center">
-    <img src="logoLAMARCA.png" alt="70" width="140" > 
-    <img src="logoAEI.png" alt="70" width="140"> 
+<p href="https://aimeos.org/">
+    <img src="logoAEI.png" width="200" height="60" align="right"> 
+    <img src="logoLAMARCA.png"  width="120" height="60" align="right"> 
+   
 </p>
-
+    
 # LAMARCA tool
-
 Welcome!
 
 This is the software platform for the transference of the results of the [LAMARCA project](https://www.lamarca-project.eu/).
@@ -13,13 +13,64 @@ This is the software platform for the transference of the results of the [LAMARC
 
 - [x] Real time metocean observations and forecasts
 
-- [x] Gap filling tools for HF radar data (**BRANCH Gap_filling_tools**)
+- [x] Gap filling tools for HF radar data 
 
 - [x] Lagrangian products LCS, LFN
 
 - [x] Marine litter data, paths and hotspots
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="about-the-project">text1</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#text2">Getting Started</a>
+      <ul>
+        <li><a href="#text3">Prerequisites</a></li>
+        <li><a href="#text4">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-<img src="logoLAMARCA.png" alt="150" width="300"/>
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-<img src="logoAEI.png" alt="150" width="300"/>
+The aim of this project is to further understand the role of oceanic transport in marine litter (microplastics and meso/macrolitter) dispersion and accumulation areas in the sea surface, along the water column and over the seafloor. With special emphasis on coastal zones and in the range of scales from 1 m to 10 km, where the vertical motions by marine currents play a relevant role. Focusing on the distribution of marine litter by ocean currents, we propose an approach that combines ocean-current structures, oceanographic campaigns, and new Lagrangian tools from complex systems to characterize marine connectivity and mixing properties in coastal waters.
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+
+### Installation
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+<!-- ROADMAP -->
+## Roadmap
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+<!-- LICENSE -->
+## License
+
+<!-- CONTACT -->
+## Contact
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
