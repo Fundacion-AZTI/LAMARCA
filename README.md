@@ -12,6 +12,7 @@ This is the software platform for the transference of the results of the [LAMARC
 **LAMARCA tool** contains customized data products and methods designed for the integrated management of coastal areas, focusing on the dispersion and accumulation of marine litter. **LAMARCA tool** is composed by the following solutions:
 
 > [!TIP]
+> Helpful advice for doing things better or more easily.
 - [x] Real time metocean observations and forecasts
 
 - [x] Gap filling tools for HF radar data (**BRANCH Gap_filling_tools**)
