@@ -1,4 +1,4 @@
-<a align="right">
+<a align="center">
     <img src="logoLAMARCA.png" alt="70" width="140" > 
     <img src="logoAEI.png" alt="70" width="140"> 
 </a>
