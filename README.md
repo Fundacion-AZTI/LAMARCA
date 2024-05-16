@@ -14,11 +14,11 @@ This is the software platform for the transference of the results of the [LAMARC
 
 - Real time metocean observations and forecasts
 
--Gap filling tools for HF radar data (**BRANCH Gap_filling_tools**)
+- Gap filling tools for HF radar data (**BRANCH Gap_filling_tools**)
 
--Lagrangian products LCS, LFN
+- Lagrangian products LCS, LFN
 
--Marine litter data, paths and hotspots
+- Marine litter data, paths and hotspots
 
 
 <img src="logoLAMARCA.png" alt="150" width="300"/>
