@@ -1,5 +1,5 @@
 <p href="(https://www.lamarca-project.eu/)">
-    <img src="logoAEI.png" width="200" height="60" align="right"> 
+    <img src="logoAEI.png" width="220" height="60" align="right"> 
     <img src="logoLAMARCA.png"  width="120" height="60" align="right"> 
    
 </p>
