@@ -88,6 +88,12 @@ Balearic Sea)
  🟡 _Task on hold_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Scientific publications
+- CONGRESS ABC 2026: Aaaa Bbbb Ccc, June 20–23, 2026, XXX, Spain
+	- Link to the proceedings: []
+	- Link to the paper: []
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
