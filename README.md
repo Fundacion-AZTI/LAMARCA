@@ -79,7 +79,7 @@ Western Mediterranean Sea (WMS), which are two regions extremely affected by the
 - [x] Computation and visualization of 2d and 3d LCS and LFN 🟢 **Completed task**
 - [ ] Identification of provinces
 with infomap (both in the surface and at any depth) 🔴 **Pending task**
-- [ ] Set-up of operational forecasts 🔴 **Pending task**
+- [ ] Set-up of operational forecasts 
 with machine-learning tools the paths of debris 🔴 **Pending task**
 - [ ] Identification of mid and long-time
 accumulation zones 🔵 _Task in progress_
