@@ -17,7 +17,7 @@ This is the software platform for the transference of the results of the [LAMARC
 
 - `Gap filling tools for HF radar data`
 
-- `Lagrangian products LCS, LFN`
+- `Lagrangian analysis tools for Lagrangian coherent structures (LCS) and Lagrangian divergence `
 
 - `Marine litter data, paths and hotspots`
 
@@ -59,39 +59,38 @@ The aim of this project is to further understand the role of oceanic transport i
 _Observation and monitoring in the Bay of Biscay and Balearic sea coastal areas_. **LAMARCA** is focused on two different study areas in the Bay of Biscay (BoB) and the
 Western Mediterranean Sea (WMS), which are two regions extremely affected by the accumulation of marine litter.
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
+<!-- SOLUTION1 -->
+## Real time metocean observations and forecasts
 ### Installation
+🔵 Solution in progress
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- SOLUTION2 -->
+## Gap filling tools for HF radar data
+### Installation
+🔵 Solution in progress
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
-- [ ] Reading at real time of data from O1-1 and O3-3  🔵 _Task in progress_
-    - [x] Sub task 1.1
-    - [ ] Sub task 1.2
-- [x] Computation and visualization of 2d and 3d LCS and LFN 🟢 **Completed task**
-- [ ] Identification of provinces
-with infomap (both in the surface and at any depth) 🔴 **Pending task**
-- [ ] Set-up of operational forecasts 
-with machine-learning tools the paths of debris 🔴 **Pending task**
-- [ ] Identification of mid and long-time
-accumulation zones 🔵 _Task in progress_
-- [ ] Tested for two pilot areas (SE BoB and
-Balearic Sea)
- 🟡 _Task on hold_
+<!-- SOLUTION3 -->
+## Lagrangian analysis tools for Lagrangian coherent structures (LCS) and Lagrangian divergence
+### Installation
+🔵 Solution in progress
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SOLUTION4 -->
+## Marine litter data, paths and hotspots
+🔵 Solution in progress
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Scientific publications
-- CONGRESS ABC 2026: Aaaa Bbbb Ccc, June 20–23, 2026, XXX, Spain
-	- Link to the proceedings: []
-	- Link to the paper: []
+- Ehstand, N., Donner, R. V., López, C., and Hernández-García, E. (2023). Network percolation provides early warnings of abrupt changes in coupled oscillatory systems: An explanatory analysis. Phys. Rev. E 108, 054207. doi: 10.1103/PhysRevE.108.054207
+	- Link to the paper: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.054207
+ - van de Vijsel, R. C., Hernández-García, E., Orfila, A., and Gomila, D. (2023). Optimal wave reflection as a mechanism for seagrass self-organization. Sci Rep 13, 20278. doi: 10.1038/s41598-023-46788-4
+  	- Link to the paper: https://www.nature.com/articles/s41598-023-46788-4
+ - Manso-Narvarte, I., Caballero, A., Hernández-Carrasco, I., Orfila, A., Santos Mocoroa, M., Cotano, U., et al. (2024). Effect of circulation at early life stages of European anchovy in the Bay of Biscay from observational data and a Lagrangian approach. Journal of Marine Systems 242, 103938. doi: 10.1016/j.jmarsys.2023.103938
+	- Link to the paper: https://www.sciencedirect.com/science/article/pii/S0924796323000829
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
