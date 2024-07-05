@@ -16,6 +16,8 @@ This is the software platform for the transference of the results of the [LAMARC
 -  `Real time metocean observations and forecasts` 
 
 - `Gap filling tools for HF radar data`
+  
+- `Lagrangian models `
 
 - `Lagrangian analysis tools for Lagrangian coherent structures (LCS) and Lagrangian divergence `
 
