@@ -74,12 +74,18 @@ Western Mediterranean Sea (WMS), which are two regions extremely affected by the
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SOLUTION3 -->
-## Lagrangian analysis tools for Lagrangian coherent structures (LCS) and Lagrangian divergence
+## Lagrangian models
 ### Installation
 🔵 Solution in progress
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SOLUTION4 -->
+## Lagrangian analysis tools for Lagrangian coherent structures (LCS) and Lagrangian divergence
+### Installation
+🔵 Solution in progress
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SOLUTION5 -->
 ## Marine litter data, paths and hotspots
 🔵 Solution in progress
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
