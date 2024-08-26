@@ -98,7 +98,8 @@ Western Mediterranean Sea (WMS), which are two regions extremely affected by the
   	- Link to the paper: https://www.nature.com/articles/s41598-023-46788-4
  - Manso-Narvarte, I., Caballero, A., Hernández-Carrasco, I., Orfila, A., Santos Mocoroa, M., Cotano, U., et al. (2024). Effect of circulation at early life stages of European anchovy in the Bay of Biscay from observational data and a Lagrangian approach. Journal of Marine Systems 242, 103938. doi: 10.1016/j.jmarsys.2023.103938
 	- Link to the paper: https://www.sciencedirect.com/science/article/pii/S0924796323000829
-
+ - Bertin, S., Rubio, A., Hernández-Carrasco, I., Solabarrieta, L., Ruiz, I., Orfila, A., et al. (2024). Coastal current convergence structures in the Bay of Biscay from optimized high-frequency radar and satellite data. Science of The Total Environment 947, 174372. doi: 10.1016/j.scitotenv.2024.174372
+  	- Link to the paper: https://www.sciencedirect.com/science/article/pii/S0048969724045200
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
