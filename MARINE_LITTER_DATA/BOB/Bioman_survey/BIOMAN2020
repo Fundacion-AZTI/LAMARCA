@@ -1,3 +1,16 @@
+| **Metadata Bioman 2020** |
+|-------------------------:|
+
+| **EMODnet identifier** | ****         | **Specification** | **Remarks**                                                                                                                                                         |
+|-----------------------:|-------------:|------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Instrument             |              | L69 (Neuston net) | SeaDataNet device categories. URL of the SeaDataNet resolver for all vocabs and directories:  http://www.seadatanet.org/urnurl/SDN:L05                              |
+| Mesh_size (mm)         |              | 0.33              |                                                                                                                                                                     |
+| Net_opening            | net width(m) | 1                 |                                                                                                                                                                     |
+|                        | net hight(m) | 0.5               |                                                                                                                                                                     |
+
+| **Sampling Parameters Bioman 2020** |
+|------------------------------------:|
+
 | **Cruise**     | **Station** | **SampleID** | **EventStartDateTime [YYYY-MM-DD]Local** | **EventStartDateTime [hh:mm]Local** | **EventEndDateTime [YYYY-MM-DD]Local** | **EventEndDateTime [hh:mm:ss]Local** | **EventStartLongitude [degrees_east]** | **EventStartLatitude [degrees_north]** | **SamplingEffort [km]** | **Microlitter_Size** | **Microlitter_Count [Dimensionless]** | **Microlitter_Weight [g]** |
 |---------------:|------------:|-------------:|-----------------------------------------:|------------------------------------:|---------------------------------------:|-------------------------------------:|---------------------------------------:|---------------------------------------:|------------------------:|---------------------:|--------------------------------------:|---------------------------:|
 | **Bioman2020** | 1           | NST_001      | 2020-5-7                                 | 3:56                                | 2020-5-7                               | 4:11                                 | -3.5364                                | 43.315                                 | 0.603387603             | ≤5 mm                | 1273                                  | 0.24939                    |
