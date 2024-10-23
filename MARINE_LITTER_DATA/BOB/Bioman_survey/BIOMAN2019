@@ -1,3 +1,16 @@
+| **Metadata Bioman 2019** |
+|-------------------------:|
+
+| **EMODnet identifier** | ****         | **Specification** | **Remarks**                                                                                                                                                         |
+|-----------------------:|-------------:|------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Instrument             |              | L69 (Neuston net) | SeaDataNet device categories. URL of the SeaDataNet resolver for all vocabs and directories:  http://www.seadatanet.org/urnurl/SDN:L05                              |
+| Mesh_size (mm)         |              | 0.33              |                                                                                                                                                                     |
+| Net_opening            | net width(m) | 1                 |                                                                                                                                                                     |
+|                        | net height(m)| 0.5               |                                                                                                                                                                     |
+
+| **Sampling Parameters Bioman 2019** |
+|------------------------------------:|
+
 | **Cruise**     | **Station** | **SampleID** | **EventStartDateTime [YYYY-MM-DD]Local** | **EventStartDateTime [hh:mm]Local** | **EventEndDateTime [YYYY-MM-DD]Local** | **EventEndDateTime [hh:mm:ss]Local** | **EventStartLongitude [degrees_east]** | **EventStartLatitude [degrees_north]** | **EventEndLongitude [degrees_east]** | **EventEndLatitude [degrees_east]** | **SamplingEffort [km]** | **Microlitter_Size** | **Microlitter_Count [Dimensionless]** | **Microlitter_Weight [g]** |
 |---------------:|------------:|-------------:|-----------------------------------------:|------------------------------------:|---------------------------------------:|-------------------------------------:|---------------------------------------:|---------------------------------------:|-------------------------------------:|------------------------------------:|------------------------:|---------------------:|--------------------------------------:|---------------------------:|
 | **Bioman2019** | 1           | NST_001      | 2019-5-11                                | 18:57                               | 2019-5-11                              | 19:18                                | -4.5563                                | 43.2846                                | -4.5587                              | 43.2877                             | 0.796478183             | <5 mm                | 837                                   | 0.02532                    |
