@@ -3,7 +3,7 @@
 
 | **EMODnet identifier** | ****         | **Specification** | **Remarks**                                                                                                                                                         |
 |-----------------------:|-------------:|------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Instrument             |              | L69               | neuston net<br>SeaDataNet device categories<br>URL of the SeaDataNet URNURL resolver for all vocabs and directories:  http://www.seadatanet.org/urnurl/SDN:L05      |
+| Instrument             |              | L69 (Neuston net) | SeaDataNet device categories. URL of the SeaDataNet resolver for all vocabs and directories:  http://www.seadatanet.org/urnurl/SDN:L05                              |
 | Mesh_size (mm)         |              | 0.5               |                                                                                                                                                                     |
 | Net_opening            | net width(m) | 1                 |                                                                                                                                                                     |
 |                        | net hight(m) | 0.5               |                                                                                                                                                                     |
