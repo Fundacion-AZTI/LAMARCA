@@ -1,3 +1,16 @@
+| **Metadata Bioman 2022** |
+|-------------------------:|
+
+| **EMODnet identifier** | ****         | **Specification** | **Remarks**                                                                                                                                                         |
+|-----------------------:|-------------:|------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Instrument             |              | L69 (Neuston net) | SeaDataNet device categories. URL of the SeaDataNet resolver for all vocabs and directories:  http://www.seadatanet.org/urnurl/SDN:L05                              |
+| Mesh_size (mm)         |              | 0.33              |                                                                                                                                                                     |
+| Net_opening            | net width(m) | 1                 |                                                                                                                                                                     |
+|                        | net hight(m) | 0.5               |                                                                                                                                                                     |
+
+| **Sampling Parameters Bioman 2022** |
+|------------------------------------:|
+
 | Cruise     | Station | SampleID | EventStartDateTime [YYYY-MM-DD]Local | EventStartDateTime [hh:mm]Local | EventEndDateTime [YYYY-MM-DD]Local | EventEndDateTime [hh:mm:ss]Local | EventStartLongitude [degrees_east] | EventStartLatitude [degrees_north] | EventEndLongitude [degrees_east] | EventEndLatitude [degrees_east] | SamplingEffort [km] | Microlitter_Size | Microlitter_Count [Dimensionless] | Microlitter_Weight [g] |
 |------------|---------|----------|--------------------------------------|---------------------------------|------------------------------------|----------------------------------|------------------------------------|------------------------------------|----------------------------------|---------------------------------|---------------------|------------------|-----------------------------------|------------------------|
 | Bioman2022 | 1       | NST_001  | 2022-5-7                             | 20:51                           | 2022-5-7                           | 21:10                            | -4.93651873                        | 43.62384581                        | -4.92901858                      | 43.63434602                     | 0.886335            | ≤5 mm            | 1693                              | 0.01809                |
