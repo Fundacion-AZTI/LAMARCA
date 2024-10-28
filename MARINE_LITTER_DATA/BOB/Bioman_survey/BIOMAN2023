@@ -1,3 +1,16 @@
+| **Metadata Bioman 2023** |
+|-------------------------:|
+
+| **EMODnet identifier** | ****         | **Specification** | **Remarks**                                                                                                                                                         |
+|-----------------------:|-------------:|------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Instrument             |              | L69 (Neuston net) | SeaDataNet device categories. URL of the SeaDataNet resolver for all vocabs and directories:  http://www.seadatanet.org/urnurl/SDN:L05                              |
+| Mesh_size (mm)         |              | 0.33              |                                                                                                                                                                     |
+| Net_opening            | net width(m) | 1                 |                                                                                                                                                                     |
+|                        | net hight(m) | 0.5               |                                                                                                                                                                     |
+
+| **Sampling Parameters Bioman 2023** |
+|------------------------------------:|
+
 | Cruise     | Station | SampleID | EventStartDateTime [YYYY-MM-DD]Local | EventStartDateTime [hh:mm]Local | EventEndDateTime [YYYY-MM-DD]Local | EventEndDateTime [hh:mm:ss]Local | EventStartLongitude [degrees_west] | EventStartLatitude [degrees_north] | EventEndLongitude [degrees_west] | EventEndLatitude [degrees_north] | SamplingEffort [km] | Microlitter_Size | Microlitter_Count [Dimensionless] | Microlitter_Weight [g] |
 |------------|---------|----------|--------------------------------------|---------------------------------|------------------------------------|----------------------------------|------------------------------------|------------------------------------|----------------------------------|----------------------------------|---------------------|------------------|-----------------------------------|------------------------|
 | Bioman2023 | 1       | NST_001  | 2023-5-5                             | 15:48                           | 2023-5-5                           | 16:03                            | -4.93585205                        | 43.62584585                        | -4.93651873                      | 43.64317953                      | 0.6524144           | ≤5 mm            | 1297                              | 0.03774                |
