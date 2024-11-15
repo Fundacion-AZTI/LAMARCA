@@ -1,0 +1,16 @@
+These data details the trajectories of 13 surface drifters deployed without wind drag during an adaptative sea survey campaign referred to as BOBLIT0.1.
+
+Two types of drifters were used: 
+
+- Type 1 (SCB005, SCB02, UIB005, 7, 8 and 11): Type 1 are ODI surface buoys formerly manufactured by Albatros Marine Technologies
+- Type 2 (Log01-Log07): Type 2 are a set of cylinder-shaped home-made drifters.
+
+All drifters were equipped with an anchor of 0.5 m long positioned in the water column between 0.8 and 1.3 m depth, allowing them to drift with surface currents. 
+
+Reference time: UTC
+
+For more details, please refer to the following scientific publication: 
+
+S. Bertin, A. Rubio, I. Hernández-Carrasco, L. Solabarrieta, I. Ruiz, A. Orfila, A. Sentchev,
+Coastal current convergence structures in the Bay of Biscay from optimized high-frequency radar and satellite data,
+Science of The Total Environment,Volume 947, 2024, 174372,ISSN 0048-9697,https://doi.org/10.1016/j.scitotenv.2024.174372. 
